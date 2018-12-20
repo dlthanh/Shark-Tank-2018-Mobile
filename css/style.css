@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.sharktank-wrapper {
+    background-color: #002975;
+    padding-bottom: 100px;
+}
+.stw-img {
+    width: 100%;
+}
+.stw-main p {
+    padding: 0 15px;
+    font-size: 15px;
+    line-height: 22px;
+}
+.stw-main strong {
+    font-weight: bold;
+}
+.stw-main em {
+    font-style: italic;
+}
+.stw-title {
+    font-family: 'Kelson', sans-serif;
+    font-weight: 700;
+    font-size: 22px!important;
+    line-height: 32px!important;
+    color: #d38b00;
+}
+.stw-detail {
+    font-family: 'helveticaneue', sans-serif;
+    margin-top: 30px;
+    color: #fff;
+}
+.stw-shark {
+    font-family: 'NotoSerif', serif;
+    padding: 0 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    line-height: 22px;
+}
+.stws-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.stwsi-avata {
+    width: 80px;
+    margin-right: 10px;
+}
+.stwsi-avata img {
+    width: 100%;
+}
